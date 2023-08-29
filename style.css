@@ -169,7 +169,29 @@
 .off{
     color: #E55473;
 }
-
+.featured{
+    text-align: center;
+}
+.pinkimg{
+    display: flex;
+    text-align: center;
+    height: 280px;
+    width: 350px;
+    margin-top: 30px;
+}
+.img1{
+    margin-left: 80px;
+}
+.img2{
+    margin-left: 20px;
+}
+.img3{
+    margin-left: 20px;
+}
+.img4{
+    margin-left: 20px;
+    margin-right: 100px;
+}
 
 
 

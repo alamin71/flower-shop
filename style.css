@@ -2,23 +2,83 @@
     font-family: 'Lato', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+
 .section-1 {
-    padding-left:75px;
+    padding-left: 75px;
     padding-right: 75px;
     display: flex;
     align-items: center;
-    background-color:#f7eded;
+    background-color: #f7eded;
 }
-.section-1 button{
-    padding: 20px 43px;
-    align-items: flex-start;
-    background: #E55473;
+
+.btn{
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
     border-radius: 8px;
-    color: white;
+    background: #E55473;
+    padding: 15px 35px;
+    border:none;
 }
+
 .section1-img img {
     padding-left: 30px;
     padding-top: 20px;
     width: 390px;
-    height: 510px
+    height: 400px
 }
+
+.section-2 {
+    text-align: center;
+    align-items: center;
+}
+.pink6{
+    display: inline-block;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 270px;
+    height: 320px;
+    margin-left: 12px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.mixedflower{
+    display: inline-block;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 270px;
+    height: 320px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.yellow7{
+    display: inline-block;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 270px;
+    height: 320px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.flowertext{
+    display: flex;
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 12px;
+}
+.textc{
+    margin-left: 215px;
+}
+.textb{
+    margin-left: 218px;
+}
+
+

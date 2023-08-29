@@ -2,6 +2,32 @@
     font-family: 'Lato', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+/* navigation */
+nav, nav ul{
+    display: flex;
+    text-decoration: none;
+}
+.navh{
+    color: white;
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.navu{
+    text-decoration: none;
+    margin-top: 40px;
+    margin-left: 380px;
+    list-style: none;
+}
+nav ul li{
+    margin-left: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: #111010;
+}
+
 
 .section-1 {
     padding-left: 75px;

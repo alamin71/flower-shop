@@ -80,5 +80,52 @@
 .textb{
     margin-left: 218px;
 }
+.delivery{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 980px;
+    height: 250px;
+    flex-shrink: 0;
+    margin-top: 100px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    margin-left: 120px;
+}
+.man{
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    margin-left: 190px;
+}
+.flower{
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    margin-left: 240px;
+}
+.support{
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.del-text{
+    color: rgba(39, 39, 39, 0.80);
+    display: flex;
+    padding-left: 75px;
+    line-height: 15px;
+}
+.text-1{
+    text-align: center;
+    padding-left: 60px;
+}
+.text-2{
+    text-align: center;
+    padding-left: 100px;
+}
+
+
+
+
 
 
